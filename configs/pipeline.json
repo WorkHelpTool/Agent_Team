@@ -1,0 +1,10 @@
+{
+  "agents": [
+    "pm",
+    "tech_lead",
+    "dev",
+    "qa",
+    "ops",
+    "analyst"
+  ]
+}
